@@ -1,7 +1,7 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Hafshoh Nur Adzikra**.<br>
-Saya seorang mahasiswa jurusan Informatika di Universitas Gunadarma.<br>
+Saya seorang mahasiswi jurusan Informatika di Universitas Gunadarma.<br>
 
 <!---
 sseiraa/sseiraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
